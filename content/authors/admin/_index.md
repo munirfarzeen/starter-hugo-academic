@@ -72,7 +72,7 @@ Farzeen Munir received a BS degree in Electrical Engineering from Pakistan Insti
 and an MS degree in System Engineering from Pakistan Institute of Engineering and Applied Sciences, Pakistan in 2015. She received her PhD
 from Gwangju Institute of Science and Technology, Korea in 2022.
 
-In her PhD, she worked on the system, design, and experimental validation of autonomous vehicle in an unconstrained environment.  Currently, she is a  postdoctoral researcher, she joined Korea Culture Technology Institute, Gwangju Institute of Science and Technology, South Korea, led by [Professor.Moongu Jeon](https://sites.google.com/view/mlv/people/professor), where she worked on developing end-to-end solutions using deep learning for indoor robotics.  Her research interest includes deep learning, autonomous driving, visual perception, and representation learning.
+In her PhD, she worked on the system, design, and experimental validation of autonomous vehicle in an unconstrained environment.  Currently, she is a  postdoctoral researcher, she joined Korea Culture Technology Institute, Gwangju Institute of Science and Technology, South Korea, led by [Professor Moongu Jeon](https://sites.google.com/view/mlv/people/professor), where she worked on developing end-to-end solutions using deep learning for indoor robotics.  Her research interest includes deep learning, autonomous driving, visual perception, and representation learning.
 
 
 
