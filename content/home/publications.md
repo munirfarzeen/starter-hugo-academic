@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Recent Publications
-subtitle: ''
+title:  Publications
+subtitle: 'Journal Publications '
 
 content:
   # Filter on criteria
@@ -19,7 +19,7 @@ content:
       - publication
     tag: ''
     category: ''
-    publication_type: ''
+    publication_type: '2'
     author: ''
     exclude_featured: false
     exclude_future: false
@@ -34,6 +34,7 @@ design:
   # Choose a view for the listings:
   view: citation
   columns: '2'
+
 ---
 
 {{% callout note %}}

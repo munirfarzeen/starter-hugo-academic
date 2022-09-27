@@ -19,6 +19,12 @@ main:
   - name: Publications
     url: '#featured'
     weight: 50
+  - name: Publications_conf
+    url: '#featured'
+    weight: 50
+  - name: Thesis
+    url: '#featured'
+    weight: 50
   - name: Contact
     url: '#contact'
     weight: 60
