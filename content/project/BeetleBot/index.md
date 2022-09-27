@@ -35,7 +35,7 @@ url_video: ''
 ---
 
 
-<style>body {text-align: justify}</style>
+<!-- <style>body {text-align: justify}</style> -->
 In this study, we have developed an autonomous vehicle using limited sensor suite as compared to autonomous vehicles discussed previously. Figure  illustrates our test-bed called Car.Mlv.ai. The efficacy of our autonomous vehicle is experimentally verified by deploying it as an automated taxi service in the constrained environment. The proposed autonomous vehicle is composed of localization, perception, planning and control modules. The design of a distributed system and incorporation of robust algorithms enable the autonomous vehicle to perform efficiently. The fusion of sensor data for localization in map generation and navigation and also in perception module enable reliable object detection, recognition and classification in a dynamic environment. In the planning module, the optimal path is devised by considering the lane, obstacle information, and upon which velocity and behaviour planning are executed. Finally, based on the planning results, the control module performs the lateral and longitudinal control of the autonomous vehicle.
 
 {{< figure src="turtlebot.png" caption="Overall architecture of BeetleBot using ROS framework." numbered="true" >}}
