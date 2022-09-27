@@ -10,7 +10,7 @@ headless: true
 weight: 90
 
 title:  Publications
-subtitle: 'Journal Publications '
+subtitle: Journal Publications
 
 content:
   # Filter on criteria
